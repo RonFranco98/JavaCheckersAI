@@ -1,0 +1,15 @@
+.root{
+    -fx-background-image: url("img/background.jpg");
+    -fx-background-size: 100% 100%;
+}
+.button{
+    -fx-background-color:#da645c;
+    -fx-font-size: 150%;
+    -fx-text-fill: white;
+    -fx-background-radius: 20;
+    -fx-font-weight: bold;
+}
+.button:hover{
+    -fx-background-color:#5a73e3;
+    -fx-text-fill: #000000;
+}
